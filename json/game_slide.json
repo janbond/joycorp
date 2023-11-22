@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "棒球殿堂",
+    "desc": "唯一完整CPBL中華職棒授權，台灣唯一擬真中華職棒手機遊戲",
+    "image": "pitw",
+    "link": "",
+    "txtColor": "white"
+  },
+  {
+    "id": 2,
+    "title": "奇迹暖暖",
+    "desc": "千變萬化的換裝養成遊戲，讓你每個下一秒都是最美的時刻，創造屬於您的奇迹與夢想!",
+    "image": "nu",
+    "link": "",
+    "txtColor": "black"
+  },
+  {
+    "id": 3,
+    "title": "全民打棒球Pro",
+    "desc": "速戰速決、直球對決!輕鬆享受揮棒樂趣~自動完成例行賽!<br>悠哉、輕鬆地累積成長資源!",
+    "image": "bbm",
+    "link": "",
+    "txtColor": "black"
+  },
+  {
+    "id": 3,
+    "title": "戀與製作人",
+    "desc": "在跌宕起伏的超現實世界中體驗心動!<br>這是屬於你的愛和夢想,那就都要棋逢對手!",
+    "image": "evol",
+    "link": "",
+    "txtColor": "white"
+  }
+]
